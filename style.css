@@ -39,7 +39,6 @@ body {
 .search button {
   border: 0;
   outline: 0;
-  background: #ebfffc;
   border-radius: 50%;
   width: 60px;
   height: 60px;
@@ -47,6 +46,11 @@ body {
 }
 .search button img {
   width: 20px;
+}
+.locationButton{
+position: absolute;
+right: 670px;
+background: none;
 }
 
 .weather-icon {
